@@ -1,0 +1,16 @@
+# dependencies
+/node_modules
+
+# build output
+/dest
+
+# logs
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# TypeScript
+*.tsbuildinfo
+
+# environment files
+.env
